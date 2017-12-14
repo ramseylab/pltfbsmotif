@@ -10,10 +10,10 @@ the analysis published in the 2010 article *Genome-wide histone acetylation data
 The MATLAB code in this project was written by Stephen Ramsey [(@saramsey)](https://github.com/saramsey) except for six contributed
 modules:
 
-- `PSWM_MotifLocator.m`, `BM_Scan.m`, `basepairs2num.m`, `readfastaseqs.m`:  Harri L\"ahdesm\"aki (personal communication)
+- `PSWM_MotifLocator.m`, `BM_Scan.m`, `basepairs2num.m`, `readfastaseqs.m`:  Harri Lähdesmäki (personal communication)
 - `readbar.m`, `writebar.m`:  Matti Nykter (personal communication)
 
-The contributions of Dr. L\"hdesm"aki and Dr. Nykter to this project are gratefully acknowledged.
+The contributions of Dr. Lähdesmäki and Dr. Nykter to this project are gratefully acknowledged.
 
 ## Requirements
 
