@@ -11,7 +11,7 @@ The MATLAB code in this project was written by Stephen Ramsey [(@saramsey)](http
 and except for the following code modules which were either contributed or incorporated
 from public-domain sources. 
 
-- PSWM_MotifLocator.m:  Harri Lahdesmaki (personal communication)
+- PSWM_MotifLocator.m, basepairs2num.m, readfastaseqs.m:  Harri Lahdesmaki (personal communication)
 - readbar.m/writebar.m:  Matti Nykter (personal communication)
 - uuidgen.m: Dahua Lin (from MATLAB Central)
 
