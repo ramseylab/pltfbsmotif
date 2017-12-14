@@ -7,10 +7,10 @@ motif-based prediction of transcription factor binding sites. The code was used 
 the analysis published in the 2010 article *Genome-wide histone acetylation data improve prediction of mammalian transcription factor binding sites* 
 [(Ramsey et al., Bioinform., 2010)](https://doi.org/10.1093/bioinformatics/btq405).
 
-The MATLAB code in this project was written by Stephen Ramsey [(@saramsey)](https://github.com/saramsey) except for five contributed
+The MATLAB code in this project was written by Stephen Ramsey [(@saramsey)](https://github.com/saramsey) except for six contributed
 modules:
 
-- PSWM_MotifLocator.m, basepairs2num.m, readfastaseqs.m:  Harri Lahdesmaki (personal communication)
+- PSWM_MotifLocator.m, BM_Scan.m, basepairs2num.m, readfastaseqs.m:  Harri Lahdesmaki (personal communication)
 - readbar.m, writebar.m:  Matti Nykter (personal communication)
 
 The contributions of Dr. Lahdesmaki and Dr. Nykter to this project are gratefully acknowledged.
